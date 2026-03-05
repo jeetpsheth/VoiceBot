@@ -1,0 +1,8 @@
+{
+  "scenario_id": "refill",
+  "timestamp": "20260304_204529",
+  "transcript_path": "C:\\Users\\USER\\pretty-good-ai-voice-bot\\transcripts\\call_refill_20260304_204529.json",
+  "bugs": [
+    "[C:\\Users\\USER\\pretty-good-ai-voice-bot\\transcripts\\call_refill_20260304_204529.json] Agent gave very short/empty response after patient turn 4."
+  ]
+}

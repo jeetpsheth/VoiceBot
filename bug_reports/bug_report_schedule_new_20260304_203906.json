@@ -1,0 +1,8 @@
+{
+  "scenario_id": "schedule_new",
+  "timestamp": "20260304_203906",
+  "transcript_path": "C:\\Users\\USER\\pretty-good-ai-voice-bot\\transcripts\\call_schedule_new_20260304_203906.json",
+  "bugs": [
+    "[C:\\Users\\USER\\pretty-good-ai-voice-bot\\transcripts\\call_schedule_new_20260304_203906.json] Agent gave very short/empty response after patient turn 14."
+  ]
+}
