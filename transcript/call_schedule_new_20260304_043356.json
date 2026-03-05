@@ -1,0 +1,195 @@
+{
+  "scenario_id": "schedule_new",
+  "transcript": [
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Hi,"
+    },
+    {
+      "role": "patient",
+      "text": "Hi"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "agent",
+      "text": "Part of Pretty Good AI."
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I\u2019d like to schedule an appointment for a checkup, please."
+    },
+    {
+      "role": "agent",
+      "text": "For verification, may I have your date of birth?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure, it\u2019s the 12th of March, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "The birthday doesn't match our records, but for demo purposes, I'll accept it."
+    },
+    {
+      "role": "patient",
+      "text": "Oh, I see. No problem. So, could we go ahead and find a time for that checkup appointment?"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks, Jordan."
+    },
+    {
+      "role": "agent",
+      "text": "What kind of checkup are you looking for?"
+    },
+    {
+      "role": "agent",
+      "text": "Are you a new patient?"
+    },
+    {
+      "role": "agent",
+      "text": "Or is this a follow-up visit for an existing issue?"
+    },
+    {
+      "role": "patient",
+      "text": "This would be a general checkup, kind of a routine visit. And yes, I\u2019m a new patient, first time calling in."
+    },
+    {
+      "role": "agent",
+      "text": "We can schedule a new patient consultation for you."
+    },
+    {
+      "role": "agent",
+      "text": "Would you prefer a morning or afternoon appointment?"
+    },
+    {
+      "role": "patient",
+      "text": "I\u2019d prefer a morning appointment if possible. What times do you have available?"
+    },
+    {
+      "role": "agent",
+      "text": "Let me check for available morning appointments for a new patient consultation. One moment."
+    },
+    {
+      "role": "patient",
+      "text": "Sure, take your time. I\u2019m ready whenever you have the options."
+    },
+    {
+      "role": "agent",
+      "text": "There aren't any morning appointments available this week."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like to look at next week?"
+    },
+    {
+      "role": "agent",
+      "text": "Or is there a specific date or month you prefer?"
+    },
+    {
+      "role": "patient",
+      "text": "Next week sounds good. Let\u2019s see what morning slots you have then."
+    },
+    {
+      "role": "agent",
+      "text": "Let me check morning availability for next week."
+    },
+    {
+      "role": "agent",
+      "text": "One moment."
+    },
+    {
+      "role": "patient",
+      "text": "Alright, I\u2019m here. Just let me know what you find."
+    },
+    {
+      "role": "agent",
+      "text": "The next available morning appointment is Tuesday, March seventeenth at eleven fifteen with Dr. Doody Hauser."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like to book that or hear about other options?"
+    },
+    {
+      "role": "patient",
+      "text": "That time actually works well for me. Let\u2019s go ahead and book the appointment for Tuesday, March 17th at 11:15 with Dr. Doogie Houser."
+    },
+    {
+      "role": "agent",
+      "text": "Just to confirm, you'd like to book a new patient consultation on Tuesday, March 17th at 11:15 a.m. with Dr. Duty Hauser."
+    },
+    {
+      "role": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "role": "agent",
+      "text": "And could you briefly share the reason for your visit, such as a specific concern or just a general check-up?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that\u2019s correct. It\u2019s just a general checkup, no specific concern right now."
+    },
+    {
+      "role": "agent",
+      "text": "You're all set for a general check-up new patient consultation with Dr. Dudi Hauser on Tuesday, March 17th at 11:15 a.m."
+    },
+    {
+      "role": "agent",
+      "text": "Please bring a government issued photo ID and your insurance card to your visit."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like a text reminder for your appointment?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, a text reminder would be great. That\u2019ll help me keep track of it."
+    },
+    {
+      "role": "agent",
+      "text": "You'll get a text reminder soon."
+    },
+    {
+      "role": "agent",
+      "text": "If you have any other questions or need to change your appointment,"
+    },
+    {
+      "role": "agent",
+      "text": "Just let us know."
+    },
+    {
+      "role": "patient",
+      "text": "Thank you so much. I really appreciate the help. I think that\u2019s everything for now."
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome."
+    },
+    {
+      "role": "agent",
+      "text": "Your appointment is all set."
+    },
+    {
+      "role": "agent",
+      "text": "Have a great day, Jordan!"
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, you too! Take care."
+    }
+  ],
+  "timestamp": "20260304_043356",
+  "error": null
+}

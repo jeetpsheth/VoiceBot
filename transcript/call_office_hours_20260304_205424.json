@@ -1,0 +1,99 @@
+{
+  "scenario_id": "office_hours",
+  "transcript": [
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Hi, could you tell me"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "agent",
+      "text": "Part of Pretty Good AI."
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "I'm not sure about who you're talking to on the other side, but I\u2019m here to help. Let\u2019s keep going. Hi, could you tell me what your office hours are?"
+    },
+    {
+      "role": "agent",
+      "text": "Sure."
+    },
+    {
+      "role": "agent",
+      "text": "Pinnacle Pointe Orthopedics is open Monday, Tuesday, and Thursday."
+    },
+    {
+      "role": "agent",
+      "text": "from nine a.m. to four p.m."
+    },
+    {
+      "role": "agent",
+      "text": "Wednesday from 12 p.m. to 7 p.m."
+    },
+    {
+      "role": "agent",
+      "text": "and Friday from 9 a.m. to 12 p.m. all in Central Time."
+    },
+    {
+      "role": "agent",
+      "text": "How else can I help today?"
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, that's really helpful. Just to confirm, you're closed on weekends, right?"
+    },
+    {
+      "role": "agent",
+      "text": "That's correct."
+    },
+    {
+      "role": "agent",
+      "text": "The clinic is closed on weekends."
+    },
+    {
+      "role": "agent",
+      "text": "Let me know if you need anything else."
+    },
+    {
+      "role": "patient",
+      "text": "Got it, so Monday, Tuesday, Thursday from 9 to 4, Wednesday from 12 to 7, and Friday from 9 to 12, all Central Time, and closed on weekends. That\u2019s all clear now. Thank you so much for the details!"
+    },
+    {
+      "role": "agent",
+      "text": "You've got it exactly right."
+    },
+    {
+      "role": "agent",
+      "text": "If you have any other questions or need to schedule an appointment, just let me know."
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, I appreciate that. That covers everything I needed for now. I'll reach out if I need anything else. Take care!"
+    },
+    {
+      "role": "agent",
+      "text": "Glad I could help."
+    },
+    {
+      "role": "agent",
+      "text": "Have a great day!"
+    },
+    {
+      "role": "patient",
+      "text": "You too, take care!"
+    }
+  ],
+  "timestamp": "20260304_205424",
+  "error": null
+}

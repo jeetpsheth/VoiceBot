@@ -1,0 +1,67 @@
+{
+  "scenario_id": "insurance",
+  "transcript": [
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Hello, do you accept Blue Cross Blue"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "agent",
+      "text": "Part of Pretty Good AI."
+    },
+    {
+      "role": "patient",
+      "text": "Hello"
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "Oh, I\u2019m sorry, I think there might be some confusion. I\u2019m not Jordan. I\u2019m actually calling as a patient. Let me start over: Hello, do you accept Blue Cross Blue Shield?"
+    },
+    {
+      "role": "agent",
+      "text": "Yes."
+    },
+    {
+      "role": "agent",
+      "text": "Tenet Point Orthopedics accepts most insurance plans, including Blue Cross Blue Shield."
+    },
+    {
+      "role": "agent",
+      "text": "Is there anything else I can help you with today?"
+    },
+    {
+      "role": "patient",
+      "text": "Thank you so much for confirming that. That\u2019s exactly what I needed to know. I appreciate your help!"
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome."
+    },
+    {
+      "role": "agent",
+      "text": "If you have any other questions or need to schedule an appointment, just let me know."
+    },
+    {
+      "role": "agent",
+      "text": "Have a great day!"
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, you too! Take care."
+    }
+  ],
+  "timestamp": "20260304_210250",
+  "error": null
+}

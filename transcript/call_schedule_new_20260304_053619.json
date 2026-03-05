@@ -1,0 +1,135 @@
+{
+  "scenario_id": "schedule_new",
+  "transcript": [
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I'd like to schedule an appointment"
+    },
+    {
+      "role": "agent",
+      "text": "Part of"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "agent",
+      "text": "pretty good AI."
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "Oh, I\u2019m sorry, I think you might have the wrong number. I\u2019m actually just a patient looking to schedule a checkup appointment. Could you help me with that?"
+    },
+    {
+      "role": "agent",
+      "text": "May I have your first name, last name, and date of birth?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure, my first name is Alex, last name Johnson, and my date of birth is March 12th, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "I heard your birthday is March 12th, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that\u2019s correct. March 12th, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "I'm not able to find your information in our system right now."
+    },
+    {
+      "role": "agent",
+      "text": "I'll connect you to our patient support team so they can help you schedule your checkup."
+    },
+    {
+      "role": "agent",
+      "text": "Please stay on the line."
+    },
+    {
+      "role": "patient",
+      "text": "Alright, I\u2019ll hold on. Thank you."
+    },
+    {
+      "role": "agent",
+      "text": "laj"
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I'd like to schedule an appointment for a checkup, please."
+    },
+    {
+      "role": "agent",
+      "text": "I'm unable to schedule your appointment directly since I can't find your information in our system."
+    },
+    {
+      "role": "agent",
+      "text": "For new patients, please call the clinic directly during business hours so the team can help you get set up and book your checkup."
+    },
+    {
+      "role": "agent",
+      "text": "Is there anything else I can help with?"
+    },
+    {
+      "role": "patient",
+      "text": "I understand. Thanks for letting me know. Just to confirm, could you give me the clinic\u2019s direct number or the best time to call during business hours? That would really help."
+    },
+    {
+      "role": "agent",
+      "text": "Pivot Point Orthopedics is open Monday, Tuesday and Thursday from 9 am to 4 pm, Wednesday from 12 pm to 7 pm."
+    },
+    {
+      "role": "agent",
+      "text": "and Friday from 9 a.m. to 12 p.m. all Central Time."
+    },
+    {
+      "role": "agent",
+      "text": "You can reach the clinic directly at 844"
+    },
+    {
+      "role": "agent",
+      "text": "698"
+    },
+    {
+      "role": "agent",
+      "text": "3664"
+    },
+    {
+      "role": "patient",
+      "text": "Got it, thank you so much for that information. I\u2019ll give them a call during their hours to set up my checkup. I really appreciate the help."
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome."
+    },
+    {
+      "role": "agent",
+      "text": "If you have any other questions, feel free to call back."
+    },
+    {
+      "role": "agent",
+      "text": "Have a great day!"
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, you too! Take care."
+    }
+  ],
+  "timestamp": "20260304_053619",
+  "error": null
+}

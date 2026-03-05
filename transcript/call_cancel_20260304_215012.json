@@ -1,0 +1,215 @@
+{
+  "scenario_id": "cancel",
+  "transcript": [
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I need to cancel"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "agent",
+      "text": "Part of Pretty Good AI."
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "Oh, hi, I'm not Jordan. I'm a patient calling in. Actually, I need to cancel my appointment, please."
+    },
+    {
+      "role": "agent",
+      "text": "No problem!"
+    },
+    {
+      "role": "agent",
+      "text": "Can I get your first name so I can look up your information and help with the cancellation?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure, my first name is Alex."
+    },
+    {
+      "role": "agent",
+      "text": "May I have your first name, last name, and date of birth?"
+    },
+    {
+      "role": "patient",
+      "text": "Of course. It's Alex Johnson, and my date of birth is June 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "I heard your birthday is June 12th, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "role": "agent",
+      "text": "Could you spell your first and last name for me, please?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure. My first name is Alex, A-L-E-X, and my last name is Johnson, J-O-H-N-S-O-N."
+    },
+    {
+      "role": "patient",
+      "text": "The number you should have on file for me is 555-293-7821."
+    },
+    {
+      "role": "agent",
+      "text": "What other phone number do we have on file for you?"
+    },
+    {
+      "role": "agent",
+      "text": "Can you please provide your phone number in the format +"
+    },
+    {
+      "role": "agent",
+      "text": "One"
+    },
+    {
+      "role": "patient",
+      "text": "Oh, sure. It's plus 1-555-293-7821."
+    },
+    {
+      "role": "agent",
+      "text": "It looks like there may be a typo in the phone number you provided."
+    },
+    {
+      "role": "agent",
+      "text": "Could you please confirm your phone number in the format +1?"
+    },
+    {
+      "role": "agent",
+      "text": "followed by ten digits, for example, +1"
+    },
+    {
+      "role": "agent",
+      "text": "555-123"
+    },
+    {
+      "role": "agent",
+      "text": "4567"
+    },
+    {
+      "role": "patient",
+      "text": "Ah, I see. Let me confirm that properly. My phone number is plus 1-555-293-7821."
+    },
+    {
+      "role": "agent",
+      "text": "I'm unable to pull up your information right now, so I can't cancel your appointment directly. I'll connect you to our patient support team for help."
+    },
+    {
+      "role": "agent",
+      "text": "Please stay on the line."
+    },
+    {
+      "role": "patient",
+      "text": "All right, I\u2019ll hold on. Thanks for your help."
+    },
+    {
+      "role": "agent",
+      "text": "Live transfer."
+    },
+    {
+      "role": "patient",
+      "text": "Hi there, I was just talking to someone about canceling my appointment. Can you help me finish that up?"
+    },
+    {
+      "role": "agent",
+      "text": "Yes."
+    },
+    {
+      "role": "agent",
+      "text": "I can help you with that."
+    },
+    {
+      "role": "agent",
+      "text": "Since I couldn't verify your information earlier, I'll document your request and have our clinic support team follow up to cancel your appointment."
+    },
+    {
+      "role": "agent",
+      "text": "They'll get back to you as soon as they can."
+    },
+    {
+      "role": "agent",
+      "text": "Let's get this started."
+    },
+    {
+      "role": "patient",
+      "text": "Thank you, I really appreciate that. I\u2019ll wait to hear from the clinic support team."
+    },
+    {
+      "role": "agent",
+      "text": "I can't complete the cancellation right now since I couldn't verify your record."
+    },
+    {
+      "role": "agent",
+      "text": "I'll make sure our clinic support team gets your request and follows up with you."
+    },
+    {
+      "role": "agent",
+      "text": "Please hold on while I document this for follow-up."
+    },
+    {
+      "role": "patient",
+      "text": "Sure, I'll hold on. Thank you."
+    },
+    {
+      "role": "agent",
+      "text": "Live transfer isn't"
+    },
+    {
+      "role": "agent",
+      "text": "available right now?"
+    },
+    {
+      "role": "agent",
+      "text": "but I've documented your request."
+    },
+    {
+      "role": "agent",
+      "text": "Our clinic support team will follow up with you as soon as possible to help cancel your appointment."
+    },
+    {
+      "role": "agent",
+      "text": "If you need anything else..."
+    },
+    {
+      "role": "agent",
+      "text": "Just let me know."
+    },
+    {
+      "role": "patient",
+      "text": "Thanks a lot. I\u2019ll wait to hear from them. I appreciate your help. Take care."
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome."
+    },
+    {
+      "role": "agent",
+      "text": "The clinic support team will reach out soon. Take care!"
+    },
+    {
+      "role": "patient",
+      "text": "Thanks again. Bye for now."
+    }
+  ],
+  "timestamp": "20260304_215012",
+  "error": null
+}

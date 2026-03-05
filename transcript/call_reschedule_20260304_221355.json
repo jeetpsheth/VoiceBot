@@ -1,0 +1,171 @@
+{
+  "scenario_id": "reschedule",
+  "transcript": [
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Hello, I need to resc"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "agent",
+      "text": "Part"
+    },
+    {
+      "role": "agent",
+      "text": "of pretty good AI."
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I\u2019m not Jordan. I\u2019m actually a patient calling in. Let me start again from the top. \n\nHello, I need to reschedule my appointment that I have for this week."
+    },
+    {
+      "role": "agent",
+      "text": "No problem."
+    },
+    {
+      "role": "patient",
+      "text": "Thanks."
+    },
+    {
+      "role": "agent",
+      "text": "Can I get your first name to help pull up your record?"
+    },
+    {
+      "role": "patient",
+      "text": "Oh sure, my first name is Alex."
+    },
+    {
+      "role": "agent",
+      "text": "May I have your first name, last name, and date of birth?"
+    },
+    {
+      "role": "patient",
+      "text": "Of course. My full name is Alex Morgan, and my date of birth is July 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "I heard your birthday is July 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that\u2019s correct. July 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "Can you please spell your first and last name for me?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure. My first name: A-L-E-X, and my last name: M-O-R-G-A-N."
+    },
+    {
+      "role": "agent",
+      "text": "What other phone number do we have on file for you?"
+    },
+    {
+      "role": "patient",
+      "text": "I'm not sure what number you have on file, but I'm calling you now from my main number. If you need me to confirm or update it, just let me know."
+    },
+    {
+      "role": "agent",
+      "text": "Please provide your phone number."
+    },
+    {
+      "role": "patient",
+      "text": "Sure, my phone number is 555-238-7942."
+    },
+    {
+      "role": "agent",
+      "text": "I'm not able to find your record in the system right now."
+    },
+    {
+      "role": "agent",
+      "text": "I'll connect you to our patient support team so they can help reschedule your appointment."
+    },
+    {
+      "role": "agent",
+      "text": "Please stay on the line."
+    },
+    {
+      "role": "patient",
+      "text": "Alright, I\u2019ll hold. Thank you."
+    },
+    {
+      "role": "agent",
+      "text": "Actually..."
+    },
+    {
+      "role": "agent",
+      "text": "This is a dental clinic, so live transfer isn't available right now."
+    },
+    {
+      "role": "agent",
+      "text": "If you like."
+    },
+    {
+      "role": "agent",
+      "text": "I can document your request and have our clinic support team follow up with you as soon as possible."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like me to do that?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that would be great. If you could document that I need to reschedule my appointment for this week and have them follow up with me, I\u2019d appreciate it."
+    },
+    {
+      "role": "agent",
+      "text": "It looks like I'm unable to document your request right now since live support is open."
+    },
+    {
+      "role": "agent",
+      "text": "Normally I'd transfer you to a human, but that's not available in this demo."
+    },
+    {
+      "role": "agent",
+      "text": "Please call back during regular hours and our team will help you reschedule."
+    },
+    {
+      "role": "agent",
+      "text": "Sorry for the trouble."
+    },
+    {
+      "role": "patient",
+      "text": "I understand. Thanks for letting me know. I'll call back during regular hours to get this sorted out. Appreciate your help."
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome."
+    },
+    {
+      "role": "agent",
+      "text": "If you have any other questions about Pivot Point Orthopedics, just let me know."
+    },
+    {
+      "role": "agent",
+      "text": "Otherwise, have a great day."
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, I think that covers it for now. You have a great day too."
+    }
+  ],
+  "timestamp": "20260304_221355",
+  "error": null
+}

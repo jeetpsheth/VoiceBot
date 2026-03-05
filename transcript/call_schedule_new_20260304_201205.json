@@ -1,0 +1,147 @@
+{
+  "scenario_id": "schedule_new",
+  "transcript": [
+    {
+      "role": "patient",
+      "text": "Hi, I\u2019d like to schedule an appointment for a"
+    },
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling To the Point Orthopedics."
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I"
+    },
+    {
+      "role": "agent",
+      "text": "Part of Pretty Good AI."
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "Oh, I\u2019m sorry, I\u2019m not Jordan. I\u2019m actually a patient calling to schedule an appointment. I\u2019d really like to set up a checkup. Could you help me with that, please?"
+    },
+    {
+      "role": "agent",
+      "text": "Now have your first name, last name, and date of birth."
+    },
+    {
+      "role": "patient",
+      "text": "Oh, sure. My first name is Alex, my last name is Carter, and my date of birth is March 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "I heard your birthday is March 12th."
+    },
+    {
+      "role": "patient",
+      "text": "That's right, March"
+    },
+    {
+      "role": "agent",
+      "text": "1985"
+    },
+    {
+      "role": "patient",
+      "text": "Exactly,"
+    },
+    {
+      "role": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that's correct\u2014March 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "Can you please spell your first and last name?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure, my first name is Alex, A-L-E-X, and my last name is Carter, C-A-R-T-E-R."
+    },
+    {
+      "role": "agent",
+      "text": "What other phone number do we have on file for you?"
+    },
+    {
+      "role": "patient",
+      "text": "I\u2019m not sure exactly which number you have on file. I can give you the best number to reach me at: it\u2019s 555-283-9174."
+    },
+    {
+      "role": "agent",
+      "text": "I can't pull up your record right now."
+    },
+    {
+      "role": "agent",
+      "text": "but I'll make sure..."
+    },
+    {
+      "role": "patient",
+      "text": "That sounds good,"
+    },
+    {
+      "role": "agent",
+      "text": "Our clinic support team follows up to help you schedule your checkup."
+    },
+    {
+      "role": "agent",
+      "text": "Please hold on while I document your request."
+    },
+    {
+      "role": "patient",
+      "text": "Of course, I\u2019ll hold. Take your time."
+    },
+    {
+      "role": "agent",
+      "text": "Live transfer isn't available right now since this is a demo clinic."
+    },
+    {
+      "role": "patient",
+      "text": "Oh, I see"
+    },
+    {
+      "role": "agent",
+      "text": "In a real situation, you'd be connected to a support team member."
+    },
+    {
+      "role": "patient",
+      "text": "Got it, that"
+    },
+    {
+      "role": "agent",
+      "text": "Is there anything else I can help you with today?"
+    },
+    {
+      "role": "patient",
+      "text": "No, that covers it for now. I\u2019ll wait for the follow-up. Thanks for your help!"
+    },
+    {
+      "role": "agent",
+      "text": "You're all set."
+    },
+    {
+      "role": "agent",
+      "text": "The clinic team will follow up to help you schedule your checkup."
+    },
+    {
+      "role": "agent",
+      "text": "Have a great day."
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, you too! I\u2019ll be ready when they reach out. Take care!"
+    }
+  ],
+  "timestamp": "20260304_201205",
+  "error": null
+}

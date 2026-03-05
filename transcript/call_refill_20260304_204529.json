@@ -1,0 +1,159 @@
+{
+  "scenario_id": "refill",
+  "transcript": [
+    {
+      "role": "patient",
+      "text": "Hello, I need to request"
+    },
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Claro, entendido."
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "agent",
+      "text": "Part of Pretty good."
+    },
+    {
+      "role": "agent",
+      "text": "AI"
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "No, I\u2019m actually a patient calling in. I need to request a refill for my prescription. Could you help me with that?"
+    },
+    {
+      "role": "agent",
+      "text": "I can help with your medication refill."
+    },
+    {
+      "role": "patient",
+      "text": "Great, thank"
+    },
+    {
+      "role": "agent",
+      "text": "May I have your first name to get started?"
+    },
+    {
+      "role": "patient",
+      "text": "Of course, my name is Alex. What else do you need from me to get the refill going?"
+    },
+    {
+      "role": "agent",
+      "text": "Can I have your first name?"
+    },
+    {
+      "role": "agent",
+      "text": "Last name and date of birth."
+    },
+    {
+      "role": "patient",
+      "text": "Sure. My full name is Alex Thompson, and my date of birth is July 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "I heard your birthday is July 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that\u2019s correct. My birthday is July 12, 1985. Now, I\u2019m hoping to get that refill for my prescription. What\u2019s the next step?"
+    },
+    {
+      "role": "agent",
+      "text": "Can you please spell your first and last name for verification?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure, it's Alex\u2014A-L-E-X\u2014Thompson\u2014T-H-O-M-P-S-O-N."
+    },
+    {
+      "role": "agent",
+      "text": "What other phone number do we have on file for you?"
+    },
+    {
+      "role": "patient",
+      "text": "The phone number on file should be 555-238-9174."
+    },
+    {
+      "role": "agent",
+      "text": "I'm not able to find your record in our system right now."
+    },
+    {
+      "role": "agent",
+      "text": "I'll connect you to our patient support team so they can help with your refill request."
+    },
+    {
+      "role": "agent",
+      "text": "Please stay on the line."
+    },
+    {
+      "role": "patient",
+      "text": "Alright, I\u2019ll hold on."
+    },
+    {
+      "role": "agent",
+      "text": "Live transfer isn't available right now since this is a demo clinic."
+    },
+    {
+      "role": "agent",
+      "text": "If you'd like, I can document your request and have our clinic support team follow up with you as soon as possible."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like me to do that?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, please, that would be helpful. Go ahead and document my refill request, and have the clinic support team follow up with me. Thank you."
+    },
+    {
+      "role": "agent",
+      "text": "Since I can't document your request directly while support is open,"
+    },
+    {
+      "role": "agent",
+      "text": "I recommend calling back during business hours or visiting the clinic for help with your refill."
+    },
+    {
+      "role": "agent",
+      "text": "Is there anything else I can help you with right now?"
+    },
+    {
+      "role": "patient",
+      "text": "Alright, I understand. I\u2019ll call back during business hours. Thanks for your help. That\u2019s all for now."
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome."
+    },
+    {
+      "role": "agent",
+      "text": "If you need anything else, just give us a call."
+    },
+    {
+      "role": "agent",
+      "text": "Take care."
+    },
+    {
+      "role": "patient",
+      "text": "Will do. Thanks again. Take care."
+    }
+  ],
+  "timestamp": "20260304_204529",
+  "error": null
+}

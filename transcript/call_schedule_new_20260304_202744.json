@@ -1,0 +1,203 @@
+{
+  "scenario_id": "schedule_new",
+  "transcript": [
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I'd like to schedule an appointment"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "agent",
+      "text": "Part of Pretty Good AI."
+    },
+    {
+      "role": "patient",
+      "text": "Hi,"
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "Oh, I\u2019m sorry, I think you might have the wrong number. This isn\u2019t Jordan, I\u2019m just a patient trying to schedule an appointment."
+    },
+    {
+      "role": "agent",
+      "text": "No problem."
+    },
+    {
+      "role": "agent",
+      "text": "Let's get you scheduled for an appointment."
+    },
+    {
+      "role": "patient",
+      "text": "Hi,"
+    },
+    {
+      "role": "agent",
+      "text": "May I have your first name to get started?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure, my first name is Alex."
+    },
+    {
+      "role": "agent",
+      "text": "Now have your first name, last name, and date of birth."
+    },
+    {
+      "role": "patient",
+      "text": "My full name is Alex Reynolds, and my date of birth is March 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "I heard your birthday is March 12, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that\u2019s correct."
+    },
+    {
+      "role": "agent",
+      "text": "Could you spell your first and last name for me, please?"
+    },
+    {
+      "role": "patient",
+      "text": "Sure. My first name: A-L-E-X. My last name: R-E-Y-N-O-L-D-S."
+    },
+    {
+      "role": "agent",
+      "text": "One other phone number do we have on file for you?"
+    },
+    {
+      "role": "patient",
+      "text": "Actually, I\u2019d rather not guess. Could you let me know what number you have on file, so I can confirm it?"
+    },
+    {
+      "role": "agent",
+      "text": "Please provide your phone number."
+    },
+    {
+      "role": "patient",
+      "text": "Of course, my phone number is 555-237-8943."
+    },
+    {
+      "role": "agent",
+      "text": "I'm not able to find your information in our system right now."
+    },
+    {
+      "role": "agent",
+      "text": "I'll connect you to our patient support team so they can help you schedule your appointment."
+    },
+    {
+      "role": "agent",
+      "text": "Please stay on the line."
+    },
+    {
+      "role": "patient",
+      "text": "Sure, I'll stay on the line. Thanks for your help."
+    },
+    {
+      "role": "agent",
+      "text": "Live transfer isn't available right now since this is a demo clinic."
+    },
+    {
+      "role": "agent",
+      "text": "If you like, I can take down your information and have our clinic support team follow up to help you schedule your appointment."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like to do that?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that sounds good. Let\u2019s go ahead. What other information do you need from me?"
+    },
+    {
+      "role": "agent",
+      "text": "I have your name."
+    },
+    {
+      "role": "agent",
+      "text": "Date of Birth"
+    },
+    {
+      "role": "agent",
+      "text": "and phone number."
+    },
+    {
+      "role": "agent",
+      "text": "Is there a specific provider or type of appointment you're looking for, or just the next available?"
+    },
+    {
+      "role": "patient",
+      "text": "I'm looking for a general checkup, so the next available appointment works fine."
+    },
+    {
+      "role": "agent",
+      "text": "It looks like I still can't create a case since you're not in our system yet."
+    },
+    {
+      "role": "agent",
+      "text": "I'll document your request for our clinic support team to follow up and help you schedule your checkup."
+    },
+    {
+      "role": "agent",
+      "text": "Please hold on while I make a note for them."
+    },
+    {
+      "role": "patient",
+      "text": "Sure, I\u2019ll hold. Thank you."
+    },
+    {
+      "role": "agent",
+      "text": "Since live support is open,"
+    },
+    {
+      "role": "agent",
+      "text": "You'll need to speak with our patient support team directly to finish scheduling."
+    },
+    {
+      "role": "agent",
+      "text": "I recommend calling the clinic again and asking for a team member, or you can wait for a call back."
+    },
+    {
+      "role": "agent",
+      "text": "Sorry I couldn't complete this for you today."
+    },
+    {
+      "role": "patient",
+      "text": "No problem, I understand. I'll wait for that call back. Thanks for your help."
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome."
+    },
+    {
+      "role": "agent",
+      "text": "The clinic support team will reach out as soon as they can to help you schedule your appointment."
+    },
+    {
+      "role": "agent",
+      "text": "Have a great day."
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, you too. Take care."
+    }
+  ],
+  "timestamp": "20260304_202744",
+  "error": null
+}

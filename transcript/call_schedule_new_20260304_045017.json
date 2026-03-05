@@ -1,0 +1,359 @@
+{
+  "scenario_id": "schedule_new",
+  "transcript": [
+    {
+      "role": "agent",
+      "text": "This call may be recorded for quality and training purposes. Para espa\u00f1ol, oprima el dos."
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I'd like to schedule an appointment for"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics."
+    },
+    {
+      "role": "patient",
+      "text": "Oh, hi,"
+    },
+    {
+      "role": "agent",
+      "text": "part of pretty good AI."
+    },
+    {
+      "role": "agent",
+      "text": "Am I speaking with Jordan?"
+    },
+    {
+      "role": "patient",
+      "text": "Hi, I'd like to schedule an appointment for a checkup, please."
+    },
+    {
+      "role": "patient",
+      "text": "Sure, my date of birth is June 15, 1985."
+    },
+    {
+      "role": "agent",
+      "text": "For verification, may I have your date of birth?"
+    },
+    {
+      "role": "agent",
+      "text": "The birthday doesn't match our records, but for demo purposes, I'll accept it."
+    },
+    {
+      "role": "patient",
+      "text": "I understand, thank you. So, can we go ahead and find an available slot for that checkup?"
+    },
+    {
+      "role": "agent",
+      "text": "Thanks, Jordan."
+    },
+    {
+      "role": "patient",
+      "text": "You're welcome. Let me know what"
+    },
+    {
+      "role": "agent",
+      "text": "What kind of checkup are you looking for?"
+    },
+    {
+      "role": "agent",
+      "text": "Are you a new patient or is this a follow-up for an existing issue?"
+    },
+    {
+      "role": "patient",
+      "text": "This would be a new patient checkup. I'm looking for an annual physical, just a general wellness visit."
+    },
+    {
+      "role": "agent",
+      "text": "We offer a new patient consultation, which is a thorough first visit to review your health and concerns."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like to book this type of appointment?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that sounds perfect. Let\u2019s go ahead and book that new patient consultation, please."
+    },
+    {
+      "role": "agent",
+      "text": "We have several providers available for new patient consultations."
+    },
+    {
+      "role": "agent",
+      "text": "Do you have a preference for a specific provider?"
+    },
+    {
+      "role": "agent",
+      "text": "Or would you like to hear about your options?"
+    },
+    {
+      "role": "patient",
+      "text": "I don't have a specific provider in mind. Could you tell me about the available options?"
+    },
+    {
+      "role": "agent",
+      "text": "Here are your options for providers."
+    },
+    {
+      "role": "patient",
+      "text": "Great, I'm listening. Please go ahead and share the details"
+    },
+    {
+      "role": "agent",
+      "text": "Doctor Doot"
+    },
+    {
+      "role": "patient",
+      "text": "Got it. Dr. Duke\u2014could you tell me a bit about their availability?"
+    },
+    {
+      "role": "agent",
+      "text": "Dr. Doogie Houser focuses on quick orthopedic procedures and first-time patient evaluations."
+    },
+    {
+      "role": "agent",
+      "text": "Let me check his upcoming availability for a new patient consultation."
+    },
+    {
+      "role": "patient",
+      "text": "Sounds good, I\u2019ll hold on while you check."
+    },
+    {
+      "role": "agent",
+      "text": "Dok\u0142adnie."
+    },
+    {
+      "role": "patient",
+      "text": "I'm here, go ahead and let me know what you find."
+    },
+    {
+      "role": "agent",
+      "text": "Dr. Doogie Howser doesn't have any openings in the next week."
+    },
+    {
+      "role": "patient",
+      "text": "That\u2019s"
+    },
+    {
+      "role": "agent",
+      "text": "Would you like to look for later dates or try a different provider?"
+    },
+    {
+      "role": "patient",
+      "text": "Let\u2019s check another provider\u2019s availability, please."
+    },
+    {
+      "role": "agent",
+      "text": "We also have Dr. Doug Ross and Dr. Adam Bricker available for new patient consultations."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like to check availability with Dr. Ross, Dr. Bricker, or both?"
+    },
+    {
+      "role": "patient",
+      "text": "Let\u2019s check availability for both Dr. Ross and Dr. Bricker, that way we can find the earliest appointment."
+    },
+    {
+      "role": "agent",
+      "text": "Let me check the soonest openings for both Dr. Doug Ross and Dr. Adam Bricker for a new patient consultation."
+    },
+    {
+      "role": "agent",
+      "text": "One moment."
+    },
+    {
+      "role": "patient",
+      "text": "Sure, take your time."
+    },
+    {
+      "role": "agent",
+      "text": "Dr. Bricker."
+    },
+    {
+      "role": "patient",
+      "text": "All right, sounds like you\u2019ve got something for Dr. Bricker. What\u2019s the soonest appointment available?"
+    },
+    {
+      "role": "agent",
+      "text": "Let me fetch Dr. Bricker's earliest available appointment for a new patient consultation."
+    },
+    {
+      "role": "agent",
+      "text": "Un moment."
+    },
+    {
+      "role": "patient",
+      "text": "Sure, I\u2019ll wait. Thanks."
+    },
+    {
+      "role": "agent",
+      "text": "Dr. Brickard."
+    },
+    {
+      "role": "patient",
+      "text": "I'm here, go ahead and let me know the earliest time available."
+    },
+    {
+      "role": "agent",
+      "text": "Neither Dr. Ross nor Dr. Bricker has openings in the next week."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like to search for later dates?"
+    },
+    {
+      "role": "agent",
+      "text": "Or check with a physical therapist instead."
+    },
+    {
+      "role": "patient",
+      "text": "Let\u2019s go ahead and search for later dates with Dr. Ross or Dr. Bricker. I want to get that new patient consultation set up."
+    },
+    {
+      "role": "agent",
+      "text": "Would you prefer the earliest available appointment with either Dr. Ross or Dr. Bricker?"
+    },
+    {
+      "role": "agent",
+      "text": "Or do you have a specific week or month in mind?"
+    },
+    {
+      "role": "patient",
+      "text": "I\u2019d prefer the earliest available appointment with either one, whichever comes sooner."
+    },
+    {
+      "role": "agent",
+      "text": "Let me check for the soonest available new patient consultation with either Dr. Ross or Dr. Bricker."
+    },
+    {
+      "role": "agent",
+      "text": "One moment."
+    },
+    {
+      "role": "patient",
+      "text": "Thank you, I\u2019ll wait."
+    },
+    {
+      "role": "agent",
+      "text": "There are"
+    },
+    {
+      "role": "patient",
+      "text": "All right, just let me know as soon as you have an update."
+    },
+    {
+      "role": "agent",
+      "text": "No openings are showing for the next week with either provider."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like me to search for appointments later in March or in a different month?"
+    },
+    {
+      "role": "patient",
+      "text": "Let\u2019s go ahead and check for openings later in March, if that\u2019s all right."
+    },
+    {
+      "role": "agent",
+      "text": "I'll look for new patient consultation openings with Dr. Ross or Dr. Bricker later in March, Beck."
+    },
+    {
+      "role": "agent",
+      "text": "One moment."
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, I\u2019ll be here."
+    },
+    {
+      "role": "agent",
+      "text": "The next available new patient consultation is with"
+    },
+    {
+      "role": "agent",
+      "text": "Dr. Doogie Hauser on Tuesday, March"
+    },
+    {
+      "role": "agent",
+      "text": "Seventeenth"
+    },
+    {
+      "role": "agent",
+      "text": "At 12:45 p.m."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like to book this slot or hear about other times that day?"
+    },
+    {
+      "role": "patient",
+      "text": "That time actually works for me. Let\u2019s go ahead and book that slot on March 17 at 12:45 p.m."
+    },
+    {
+      "role": "agent",
+      "text": "Just to confirm, you'd like to book a new patient consultation with Dr. Dudy Hauser on Tuesday, March 17th at 12:45 p.m."
+    },
+    {
+      "role": "agent",
+      "text": "Is that correct?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, that\u2019s correct. Let's confirm that appointment."
+    },
+    {
+      "role": "agent",
+      "text": "Your new patient consultation with Dr. Dudi Hauser."
+    },
+    {
+      "role": "agent",
+      "text": "is confirmed for Tuesday, March 17th at 12:45 p.m."
+    },
+    {
+      "role": "agent",
+      "text": "Please bring a government-issued photo ID and your insurance card."
+    },
+    {
+      "role": "agent",
+      "text": "Would you like a text reminder for your appointment?"
+    },
+    {
+      "role": "patient",
+      "text": "Yes, a text reminder would be great."
+    },
+    {
+      "role": "agent",
+      "text": "You'll get a text reminder soon at your number."
+    },
+    {
+      "role": "agent",
+      "text": "ending in 3664."
+    },
+    {
+      "role": "agent",
+      "text": "Is there anything else I can help you with today?"
+    },
+    {
+      "role": "patient",
+      "text": "No, that covers it. Thanks so much for your help. I appreciate it."
+    },
+    {
+      "role": "agent",
+      "text": "You're all set for your appointment."
+    },
+    {
+      "role": "agent",
+      "text": "Have a great day."
+    },
+    {
+      "role": "patient",
+      "text": "Thanks, you too! Take care."
+    }
+  ],
+  "timestamp": "20260304_045017",
+  "error": null
+}
