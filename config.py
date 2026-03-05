@@ -8,8 +8,8 @@ load_dotenv()
 # Twilio
 TWILIO_ACCOUNT_SID = os.getenv("TWILIO_ACCOUNT_SID", "")
 TWILIO_AUTH_TOKEN = os.getenv("TWILIO_AUTH_TOKEN", "")
-TWILIO_PHONE_NUMBER = os.getenv("TWILIO_PHONE_NUMBER", "")
-BASE_URL = os.getenv("BASE_URL", "").rstrip("/")
+PHONE_NUMBER_FROM = os.getenv("PHONE_NUMBER_FROM", "")
+DOMAIN = os.getenv("DOMAIN", "").rstrip("/")
 
 # OpenAI
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
